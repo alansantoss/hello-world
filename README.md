@@ -1,2 +1,4 @@
 # hello world
- 1 repositorio_part2
+ 2 repositorio_part2
+    curso de git e github
+    curso em video - gustavo guanabara
